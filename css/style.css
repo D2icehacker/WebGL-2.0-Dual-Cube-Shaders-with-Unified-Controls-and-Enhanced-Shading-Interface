@@ -1,0 +1,46 @@
+/* Apply basic styling to the canvas */
+#gl-canvas {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Add styles for interface elements */
+.controls-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn-group {
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: 1px solid #007bff;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+    border: 1px solid #6c757d;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-check-label {
+    font-size: 16px;
+}
+
+/* Additional styling for specific elements if needed */
